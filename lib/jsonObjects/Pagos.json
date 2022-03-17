@@ -1,0 +1,22 @@
+[{
+    "_id": {
+      "$oid": "62328ad5a36d3269cf65bc8e"
+    },
+    "Numero de pago": "441",
+    "medio ": "Daviplata",
+    "Valor ": "$60.000"
+  },{
+    "_id": {
+      "$oid": "62328ad5a36d3269cf65bc8f"
+    },
+    "Numero de pago": "442",
+    "medio ": "Nequi",
+    "Valor ": "$150.000"
+  },{
+    "_id": {
+      "$oid": "62328ad5a36d3269cf65bc90"
+    },
+    "Numero de pago": "443",
+    "medio ": "efectivo",
+    "Valor ": "20.000"
+  }]

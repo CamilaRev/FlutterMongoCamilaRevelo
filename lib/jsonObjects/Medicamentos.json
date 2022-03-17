@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "6232871ba36d3269cf65bc79"
+    },
+    "Codigo  ": "1112",
+    "Nombre ": "Ampicilina",
+    " unidades disponibles": "50 cajas",
+    "precio ": "$10.000 caja con 15 tabletas"
+  },{
+    "_id": {
+      "$oid": "6232871ba36d3269cf65bc7a"
+    },
+    "Codigo  ": "1113",
+    "Nombre ": "Penicilina",
+    " unidades disponibles": "1000 cajas",
+    "precio ": "$8.000 caja con 20 tabletas"
+  },{
+    "_id": {
+      "$oid": "6232871ba36d3269cf65bc7b"
+    },
+    "Codigo  ": "1113",
+    "Nombre ": "Tetraciclina.",
+    " unidades disponibles": "20 cajas",
+    "precio ": "$12.000 caja con 10 tabletas"
+  }]

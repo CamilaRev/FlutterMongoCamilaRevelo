@@ -1,0 +1,19 @@
+[{
+    "_id": {
+      "$oid": "62328a27a36d3269cf65bc88"
+    },
+    "codigo": "2021",
+    "Nombre": "Estetica dental"
+  },{
+    "_id": {
+      "$oid": "62328a27a36d3269cf65bc89"
+    },
+    "codigo": "2022",
+    "Nombre": "Ortodoncia"
+  },{
+    "_id": {
+      "$oid": "62328a27a36d3269cf65bc8a"
+    },
+    "codigo": "2023",
+    "Nombre": "Periodoncia"
+  }]

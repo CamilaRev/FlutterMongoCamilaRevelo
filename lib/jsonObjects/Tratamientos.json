@@ -1,0 +1,23 @@
+[{
+    "_id": {
+      "$oid": "623292eca36d3269cf65bccc"
+    },
+    "codigo del tratamiento": "3334",
+    "Nombre": "control de Ortoncia",
+    "Objetivo": " corregir  la posición de los dientes. ",
+    "Observación": "sexto mes con el tratamiento , momento de extraccion de las cordales"
+  },{
+    "_id": {
+      "$oid": "623292eca36d3269cf65bccd"
+    },
+    "codigo": "3335",
+    "Nombre": "Control de periodoncia",
+    "Objetivo": " alisado radicular  "
+  },{
+    "_id": {
+      "$oid": "623292eca36d3269cf65bcce"
+    },
+    "codigo": "3336",
+    "Nombre": "Control de estetica dental",
+    "Objetivo": " blanquemianto dental "
+  }]

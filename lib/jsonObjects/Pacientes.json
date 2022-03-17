@@ -1,0 +1,28 @@
+[{
+    "_id": {
+      "$oid": "6232630da36d3269cf65bc5d"
+    },
+    "NUMERO DE SEGURIDAD SOCIAL ": "00045639871 ",
+    "NOMBRE ": "Carlos ",
+    "APELLIDO ": "Rosero",
+    "GENERO ": "masculino",
+    "EDAD ": "21"
+  },{
+    "_id": {
+      "$oid": "6232630da36d3269cf65bc5e"
+    },
+    "NUMERO DE SEGURIDAD SOCIAL ": "45239875632",
+    "NOMBRE ": "Marcela",
+    "APELLIDO ": "Quiroz",
+    "GENERO ": "femenino",
+    "EDAD ": "18"
+  },{
+    "_id": {
+      "$oid": "6232630da36d3269cf65bc5f"
+    },
+    "NUMERO DE SEGURIDAD SOCIAL ": "74562333024 ",
+    "NOMBRE ": "Sofia",
+    "APELLIDO ": "Morans",
+    "GENERO ": "femenino",
+    "EDAD ": "15"
+  }]

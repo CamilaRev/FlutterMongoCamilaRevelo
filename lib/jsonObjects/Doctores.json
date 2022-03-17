@@ -1,0 +1,31 @@
+[{
+    "_id": {
+      "$oid": "623283eba36d3269cf65bc71"
+    },
+    "Codigo de identificación": "001",
+    "Nombres ": "Carlos Estiven ",
+    "Apellidos ": "Rosero Muñoz",
+    "genero ": "masculino",
+    "Edad ": "21",
+    "Especialidad": "Ortodoncista"
+  },{
+    "_id": {
+      "$oid": "623283eba36d3269cf65bc72"
+    },
+    "Codigo de identificación": "002",
+    "Nombres ": "Edison Fernando ",
+    "Apellidos ": "Ortega Restrepo",
+    "genero ": "masculino",
+    "Edad ": "21",
+    "Especialidad": "Periodoncista"
+  },{
+    "_id": {
+      "$oid": "623283eba36d3269cf65bc73"
+    },
+    "Codigo de identificación": "003",
+    "Nombres ": "Luisa Fernanda ",
+    "Apellidos ": "Ibarra Vasquez",
+    "genero ": "femenino",
+    "Edad ": "21",
+    "Especialidad": "Odontologa general"
+  }]
